@@ -123,6 +123,7 @@ li{
   font-family: "LonelyArmadillo Bold";
   font-size: 35px;
   bottom: 35px;
+  cursor: pointer;
 }
 .Company-2{
   position: relative;
@@ -130,6 +131,7 @@ li{
   font-family: "LonelyArmadillo Bold";
   font-size: 35px;
   bottom: 110px;
+  cursor: pointer;
 }
 .Company-3{
   position: relative;
@@ -137,6 +139,7 @@ li{
   font-family: "LonelyArmadillo Bold";
   font-size: 35px;
   bottom: 187px;
+  cursor: pointer;
 }
 .API{
   position: relative;
@@ -172,11 +175,13 @@ li{
   width: 240px;
   left: 100px;
   bottom: 160px;
+  cursor: pointer;
 }
 .card-2-img{
   position: relative;
   left: 400px;
   bottom: 505px;
+  cursor: pointer;
 }
 .card-2-heading{
   position: relative;
@@ -184,6 +189,7 @@ li{
   bottom: 360px;
   font-size: 22px;
   font-weight: bold;
+  cursor: pointer;
 }
 .Lorem-card-2{
   position: relative;
@@ -191,11 +197,13 @@ li{
   bottom: 432px;
   font-size: 12.5px;
   font-weight: bold;
+  cursor: pointer;
 }
 .card-3-img{
   position: relative;
   left: 660px;
   bottom: 680px;
+  cursor: pointer;
 }
 .card-3-heading{
   position: relative;
@@ -203,6 +211,7 @@ li{
   bottom: 560px;
   font-size: 22px;
   font-weight: bold;
+  cursor: pointer;
 }
 .Lorem-card-3{
   position: relative;
@@ -210,11 +219,13 @@ li{
   bottom: 628px;
   font-size: 12.5px;
   font-weight: bold;
+  cursor: pointer;
 }
 .card-4-img{
   position: relative;
   left: 915px;
   bottom: 890px;
+  cursor: pointer;
 }
 .card-4-heading{
   position: relative;
@@ -222,6 +233,7 @@ li{
   bottom: 747px;
   font-size: 22px;
   font-weight: bold;
+  cursor: pointer;
 }
 .Lorem-card-4{
   position: relative;
@@ -229,11 +241,13 @@ li{
   bottom: 827px;
   font-size: 12.5px;
   font-weight: bold;
+  cursor: pointer;
 }
 .card-5-img{
   position: relative;
   left: 1155px;
   bottom: 1102px;
+  cursor: pointer;
 }
 .card-5-heading{
   position: relative;
@@ -241,6 +255,7 @@ li{
   bottom: 957px;
   font-size: 22px;
   font-weight: bold;
+  cursor: pointer;
 }
 .Lorem-card-5{
   position: relative;
@@ -248,6 +263,7 @@ li{
   bottom: 1039px;
   font-size: 12.5px;
   font-weight: bold;
+  cursor: pointer;
 }
 .arrow{
   position: relative;
@@ -261,6 +277,7 @@ li{
   font-size: 38px;
   left: 120px;
   bottom: 1000px;
+  cursor: pointer;
 }
 .See-All{
   position: relative;
@@ -280,6 +297,7 @@ li{
   border: floralwhite;
   border-style:2px dashed;
   border-radius: 55px 0px 0px 10px;
+  cursor: pointer;
 }
 .blog-card-2{
   position: relative;
@@ -291,12 +309,14 @@ li{
   border: floralwhite;
   border-style:2px dashed;
   border-radius: 55px 0px 0px 0px;
+  cursor: pointer;
 
 }
 .blog2-img{
   position: relative;
   left: 0px;
   bottom: 0px;
+  cursor: pointer;
 }
 .question{
   position: relative;
@@ -458,6 +478,7 @@ li{
   font-size: 11.5px;
   left: 310px;
   bottom: 250px;
+  cursor: pointer;
 }
 .Date-2{
   font-family: "SonnyGothic-ExtraBold";
@@ -479,6 +500,7 @@ li{
   font-size: 11.5px;
   left: 310px;
   bottom: 250px;
+  cursor: pointer;
 }
 .circle-1{
   position: relative;
